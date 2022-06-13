@@ -2,7 +2,7 @@
 The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Throw the baby out with the bathwater: The missing RD-patent relation in firm fixed effects models*. The paper is available at SSRN.
 
 ## Data Description
-We provide the sample example of 100 randomly selected firms from the paper. The firmid are randomly assigned.
+We provide the sample example of 100 randomly selected firms from the paper. The permco codes are random numbers for illustration purposes only.
 
 
 
