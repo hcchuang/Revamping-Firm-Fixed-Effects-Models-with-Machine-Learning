@@ -1,5 +1,5 @@
 # Missing-RD-Patent-Relation-in-Fixed-Effects-Models
-The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Throw the baby out with the bathwater: The missing RD-patent relation in firm fixed effects models. The paper is available at SSRN.
+The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Throw the baby out with the bathwater: The missing RD-patent relation in firm fixed effects models*. The paper is available at SSRN.
 
 ## Data Description:
 We provide the sample example of 100 randomly selected firms from the paper. The gvkeys are psudo random;y assigned gvkeys.
