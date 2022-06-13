@@ -20,7 +20,7 @@ RD-patent relation in firm fixed effects models. Available at SSRN.
 @article{chuang2022throw, 
          title={Throw the Baby Out with the Bathwater: {T}he Missing {R&D}-Patent Relation in Firm Fixed Effects Models},
          author={Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung-Ming and Yang, Jui-Chung},
-         journal={Available at SSRN },
+         journal={Available at SSRN},
          year={2022}
 }
 ```
