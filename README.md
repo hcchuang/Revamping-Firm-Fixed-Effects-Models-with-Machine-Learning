@@ -48,7 +48,7 @@ We have prepared the following three documents:
 
 
 **Software**
-- The STATA version to fully implement the replicate_code is: STATA 17.
+- The STATA version to fully implement the replicate code is: STATA 17.
 - The LASSO inference approaces: `poregress`, `xporegress`, `popoisson`, and `xpopoisson` are available since STATA 16.
   The cluster standard error for those methods are only available since STATA 17. 
   The robust standard error can still be used for those methods in STATA 16.
