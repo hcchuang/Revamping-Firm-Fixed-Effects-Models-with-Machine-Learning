@@ -28,7 +28,7 @@ We have prepared the following three documents:
   - Tobin:      The market value of a firm divided by its replacement cost(data from Compustat and CRSP)
   - ROA:        Return on assets (data from Compustat)
   - Leverage:   Long-term debt plus current debt, divided by total assets (data from Compustat)
-  - CASH AT:    Cash to the total asset  (data from Compustat)
+  - CASHAT:    Cash to the total asset  (data from Compustat)
   - KZidx:      The financial constrain index (data from Compustat)
   - Instown:    The total institutional ownership from 13f filings divided by the total number of shares outstanding (data from CRSP and Thomson/Refinitiv)
   - oms_HHidx:  One minus the Herfindahl-Hirschman index (HHI) based on three-digit industry classification (data from Compustat)
