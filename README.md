@@ -25,7 +25,7 @@ We have prepared the following three documents:
   - RD_missing: A binary variable indicating that R&D expenses are missing (data from Compustat)
   - lnAge:      The logarithm of years where a firm exists in Compustat (data from Compustat)
   - lnK2L:      The logarithm of net property, plant, and equipment divided by the number of employees(data from Compustat)
-  - Tobin:      The market value of a firm divided by its replacement cost(data from Compustat and CRSP)
+  - TobinQ:      The market value of a firm divided by its replacement cost(data from Compustat and CRSP)
   - ROA:        Return on assets (data from Compustat)
   - Leverage:   Long-term debt plus current debt, divided by total assets (data from Compustat)
   - CASHAT:    Cash to the total asset  (data from Compustat)
