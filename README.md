@@ -37,14 +37,14 @@ We have prepared the following three documents:
 
 **Results for Sample Data**
 * Depends on computer capacity; we also provide results using the sample data.
-  - "Fixed_Effects_Linear_Model_Estimates.csv" contains the results of the estimation for OLS with and without FEs (Table 3--8).
-  - "Within_Between_Variation.smcl" contains the log file for running the Between and Within variations of the key variables (Table 9).  
-  - "Hausman_Taylor_Estimates.csv" contains the results of the estimation for Hausman and Taylor with and without FEs (Table 10--11).
-  - "Post_regularization_LASSO_Linear_Model_Estimates.csv" contains the results of the estimation for the Post-regularization LASSO linear model with and without FEs (Table 12--17).	
-  - "DML_LASSO_Linear_Model_Estimates.csv" contains the results of the estimation for the double machine learning (DML) LASSO linear model with and without FEs (Table 12--17).	
-  - "Fixed_Effects_Poisson_Model_Estimates.csv" contains the results of the estimation for the Poisson model with and without FEs (Table 18--21).
-  - "Post_regularization_LASSO_Poisson_Model_Estimates.csv" contains the results of the estimation for the Post-regularization LASSO Poisson model with and without FEs (Table 22--25).		
-  - "DML_LASSO_Poisson_Model_Estimates.csv" contains the results of the estimation for DML LASSO Poisson model with and without FEs (Table 22--25).	
+  - `Fixed_Effects_Linear_Model_Estimates.csv` contains the results of the estimation for OLS with and without FEs (Table 3--8).
+  - `Within_Between_Variation.smcl` contains the log file for running the Between and Within variations of the key variables (Table 9).  
+  - `Hausman_Taylor_Estimates.csv` contains the results of the estimation for Hausman and Taylor with and without FEs (Table 10--11).
+  - `Post_regularization_LASSO_Linear_Model_Estimates.csv` contains the results of the estimation for the Post-regularization LASSO linear model with and without FEs (Table 12--17).	
+  - `DML_LASSO_Linear_Model_Estimates.csv` contains the results of the estimation for the double machine learning (DML) LASSO linear model with and without FEs (Table 12--17).	
+  - `Fixed_Effects_Poisson_Model_Estimates.csv` contains the results of the estimation for the Poisson model with and without FEs (Table 18--21).
+  - `Post_regularization_LASSO_Poisson_Model_Estimates.csv` contains the results of the estimation for the Post-regularization LASSO Poisson model with and without FEs (Table 22--25).		
+  - `DML_LASSO_Poisson_Model_Estimates.csv` contains the results of the estimation for DML LASSO Poisson model with and without FEs (Table 22--25).	
 
 
 **Software**
