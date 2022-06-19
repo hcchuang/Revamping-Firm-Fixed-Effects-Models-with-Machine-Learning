@@ -52,12 +52,12 @@ Results for Sample Data:
 * Depends on computer capacity; we also provide results using the sample data.
 - "Within_Between_Variation.smcl" contains the log file for running the Between and Within variations of the key variables (Table 9). 
 - "Fixed_Effects_Linear_Model_Estimates.csv" contains the results of the estimation for OLS with and without FEs (Table 3--8).
-- "Hausman_Taylor_Estimates.csv" contains the results of the estimation for Hausman and Taylor with and without FEs (Table 10--11).
-- "Post_Regulization_LASSO_Linear_Model_Estimates.csv" contains the results of the estimation for the Post-regularization LASSO linear model with and without FEs (Table 12--17).	
-- "DML_LASSO_Linear_Model_Estimates.csv" contains the results of the estimation for the double machine learning (DML) LASSO linear model with and without FEs (Table 12--17).	
+- "Hausman_Taylor_Estimates.csv" contains the results of the estimation for Hausman and Taylor estimation (Table 10--11).
+- "Post_Regulization_LASSO_Linear_Model_Estimates.csv" contains the results of the estimation for the Post-regularization LASSO linear model (Table 12--17).	
+- "DML_LASSO_Linear_Model_Estimates.csv" contains the results of the estimation for the double machine learning (DML) LASSO linear model (Table 12--17).	
 - "Fixed_Effects_Poisson_Model_Estimates.csv" contains the results of the estimation for the Poisson model with and without FEs (Table 18--21).
-- "Post_Regulization_LASSO_Poisson_Model_Estimates.csv" contains the results of the estimation for the Post-regularization LASSO Poisson model with and without FEs (Table 22--25).		
-- "DML_LASSO_Poisson_Model_Estimates.csv" contains the results of the estimation for DML LASSO Poisson model with and without FEs (Table 22--25).	
+- "Post_Regulization_LASSO_Poisson_Model_Estimates.csv" contains the results of the estimation for the Post-regularization LASSO Poisson model (Table 22--25).		
+- "DML_LASSO_Poisson_Model_Estimates.csv" contains the results of the estimation for DML LASSO Poisson model (Table 22--25).	
 
 
 * The following commands may need to be installed on STATA to run the codes in "Replicate_code_MissingRDPatent_ML.do" 
