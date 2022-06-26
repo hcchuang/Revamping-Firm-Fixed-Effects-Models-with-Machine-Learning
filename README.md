@@ -60,12 +60,11 @@ Please contact Po-Hsuan Hsu (pohsuanhsu@mx.nthu.edu.tw) or Hui-Ching Chuang (hcc
 
 ## Citation
 ```
-Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Throw the baby out with the bathwater: The missing
-RD-patent relation in firm fixed effects models. Available at SSRN.
+Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Throwing the Baby Out with the Bathwater: The Missing R\&D-Patent Relation in Firm Fixed Effects Models. Available at SSRN.
 ```
 ```
 @article{chuang2022throw, 
-         title={Throw the Baby Out with the Bathwater: {T}he Missing {R&D}-Patent Relation in Firm Fixed Effects Models},
+         title={Throwing the Baby Out with the Bathwater: The Missing R\&D-Patent Relation in Firm Fixed Effects Models},
          author={Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung-Ming and Yang, Jui-Chung},
          journal={Available at SSRN},
          year={2022}
