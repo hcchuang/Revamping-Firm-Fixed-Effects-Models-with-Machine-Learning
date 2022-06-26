@@ -1,5 +1,5 @@
 # Missing-RD-Patent-Relation-in-Fixed-Effects-Models
-The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Throw the baby out with the bathwater: The missing RD-patent relation in firm fixed effects models*. The paper is available at SSRN.
+The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Throwing the Baby Out with the Bathwater: The Missing R\&D-Patent Relation in Firm Fixed Effects Models*. The paper is available at SSRN.
 
 In this set of code, we demonstrate how users can implement the following four ways for the potential bias from fixed effects regressions: 
   1. Within Between Variation: check if within-firm variation dominates between-firm variation or vice versa 
