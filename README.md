@@ -63,7 +63,7 @@ Please contact Po-Hsuan Hsu (pohsuanhsu@mx.nthu.edu.tw) or Hui-Ching Chuang (hcc
 Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Reexamining Firm Fixed Effects Models with Machine Learning: New Evidence on the Missing R&D-Patent Relation. Available at SSRN.
 ```
 ```
-@article{chuang2022throw, 
+@article{chuang2022reexam, 
          title={Reexamining Firm Fixed Effects Models with Machine Learning: New Evidence on the Missing R&D-Patent Relation},
          author={Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung-Ming and Yang, Jui-Chung},
          journal={Available at SSRN},
