@@ -1,5 +1,5 @@
 # Missing-RD-Patent-Relation-in-Fixed-Effects-Models
-The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Throwing the Baby Out with the Bathwater: The Missing R\&D-Patent Relation in Firm Fixed Effects Models*. The paper is available at SSRN.
+The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Reexamining Firm Fixed Effects Models with Machine Learning: The Missing R&D-Patent Relation*. The paper is available at SSRN.
 
 In this set of code, we demonstrate how users can implement the following four ways for the potential bias from fixed effects regressions: 
   1. Within Between Variation: check if within-firm variation dominates between-firm variation or vice versa 
@@ -60,11 +60,11 @@ Please contact Po-Hsuan Hsu (pohsuanhsu@mx.nthu.edu.tw) or Hui-Ching Chuang (hcc
 
 ## Citation
 ```
-Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Throwing the Baby Out with the Bathwater: The Missing R\&D-Patent Relation in Firm Fixed Effects Models. Available at SSRN.
+Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Reexamining Firm Fixed Effects Models with Machine Learning: The Missing R&D-Patent Relation. Available at SSRN.
 ```
 ```
 @article{chuang2022throw, 
-         title={Throwing the Baby Out with the Bathwater: The Missing R\&D-Patent Relation in Firm Fixed Effects Models},
+         title={Reexamining Firm Fixed Effects Models with Machine Learning: The Missing R&D-Patent Relation},
          author={Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung-Ming and Yang, Jui-Chung},
          journal={Available at SSRN},
          year={2022}
