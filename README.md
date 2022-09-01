@@ -1,4 +1,4 @@
-# Missing-RD-Patent-Relation-in-Fixed-Effects-Models
+# Reexamining Firm Fixed Effects Models with Machine Learning
 The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Reexamining Firm Fixed Effects Models with Machine Learning: The Missing R&D-Patent Relation*. The paper is available at SSRN.
 
 In this set of code, we demonstrate how users can implement the following four ways for the potential bias from fixed effects regressions: 
