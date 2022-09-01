@@ -1,7 +1,7 @@
 *--------------------------------------------------------------------------------------------------
 *　This is the example code for the paper:
 *
-* "Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Reexamining Firm Fixed Effects Models with Machine Learning: The Missing R&D-Patent Relation. Available at SSRN."
+* "Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Reexamining Firm Fixed Effects Models with Machine Learning: TNew Evidence on the Missing R&D-Patent Relation. Available at SSRN."
 *
 * In this set of code, we demonstrate how users can implement the following four ways for the potential bias from fixed effects regressions: 
 *  (1) Within Between Variation: check if within-firm variation dominates between-firm variation or vice versa 
