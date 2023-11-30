@@ -1,5 +1,5 @@
 # Revamping Firm Fixed Effects Models with Machine Learning
-The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Revamping Firm Fixed Effects Models with Machine Learning - New Evidence on the Missing R&D-Patent Relation*. The paper is available at SSRN.
+The repository provides the detailed examples and codes following the paper Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. *Revamping Firm Fixed Effects Models with Machine Learning - New Evidence from Recovering the Missing R&D-Patent Relation*. The paper is available at SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846
 
 In this set of code, we demonstrate how users can implement the following four ways for the potential bias from fixed effects regressions: 
   1. Within Between Variation: check if within-firm variation dominates between-firm variation or vice versa 
@@ -60,11 +60,11 @@ Please contact Po-Hsuan Hsu (pohsuanhsu@mx.nthu.edu.tw) or Hui-Ching Chuang (hcc
 
 ## Citation
 ```
-Chuang, H.C., Hsu, P.H., Kuan, C.M., Yang, J.C., 2022. Revamping Firm Fixed Effects Models with Machine Learning - New Evidence on the Missing R&D-Patent Relation. Available at SSRN.
+Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung‐Ming and Yang, Jui-Chung, Revamping Firm Fixed Effects Models with Machine Learning - New Evidence from Recovering the Missing R&D-Patent Relation (June 27, 2022). Available at SSRN: https://ssrn.com/abstract=4636846
 ```
 ```
 @article{chuang2022reexam, 
-         title={Revamping Firm Fixed Effects Models with Machine Learning - New Evidence on the Missing R&D-Patent Relation},
+         title={Revamping Firm Fixed Effects Models with Machine Learning - New Evidence from Recovering the Missing R&D-Patent Relation},
          author={Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung-Ming and Yang, Jui-Chung},
          journal={Available at SSRN},
          year={2022}
