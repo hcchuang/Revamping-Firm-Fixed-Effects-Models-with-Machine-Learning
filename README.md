@@ -55,7 +55,7 @@ We have prepared the following three documents:
  - The following commands may need to be installed on STATA to run the replicate code: `reghdfe`, `ppmlhdfe`, and `esttab`.
   
 ## Contact
-Please contact Po-Hsuan Hsu (pohsuanhsu@mx.nthu.edu.tw) or Hui-Ching Chuang (hcchuang@saturn.yzu.edu.tw) for any questions regarding the data.
+Please contact Po-Hsuan Hsu (pohsuanhsu@mx.nthu.edu.tw) or Hui-Ching Chuang (huichingc@gmail.com) for any questions regarding the data.
 **Please see the paper for more information. If you use these data sets, please CITE this paper as the data source**.
 
 ## Citation
